@@ -2,7 +2,7 @@ $ pkg install git python2
 
 $ pip2 install --upgrade pip
 
-$ git clone (link)
+$ git clone https://github.com/Nardidani/Dark-fb
 
 $ cd dark-fb-pro
 
